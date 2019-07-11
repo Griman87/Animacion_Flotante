@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "animacion", "animacion\animacion.vcproj", "{6AF5BCEA-25F9-4848-9D58-81B7CA71FACD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AF5BCEA-25F9-4848-9D58-81B7CA71FACD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6AF5BCEA-25F9-4848-9D58-81B7CA71FACD}.Debug|Win32.Build.0 = Debug|Win32
+		{6AF5BCEA-25F9-4848-9D58-81B7CA71FACD}.Release|Win32.ActiveCfg = Release|Win32
+		{6AF5BCEA-25F9-4848-9D58-81B7CA71FACD}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		QtVersion = v4.8.4
+	EndGlobalSection
+EndGlobal
